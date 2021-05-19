@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648614317372",
+    "project_id": "test-firebase-2c780",
+    "storage_bucket": "test-firebase-2c780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648614317372:android:7e5385621ce404e655e239",
+        "android_client_info": {
+          "package_name": "com.example.germanproconversation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648614317372-oapn751ckl1re9k4ra026hji0cprm70u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcJYTJaLWU4YVU-Lkn4u5eLp9st8TWwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648614317372-oapn751ckl1re9k4ra026hji0cprm70u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

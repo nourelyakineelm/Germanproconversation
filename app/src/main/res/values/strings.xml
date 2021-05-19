@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">German pro conversation</string>
+    <string-array name="levels">
+        <item>A1</item>
+        <item>A2</item>
+        <item>B1</item>
+        <item>B2</item>
+    </string-array>
+    <string-array name="A1_Dialogue">
+        <item >aaaaaaaaaaaaaa</item>
+        <item>bbbbbbbbbbbbbb</item>
+        <item>cccccccccccccc</item>
+        <item>dddddddddddddd</item>
+    </string-array>
+    <string-array name="A2_Dialogue">
+        <item>eeeeeeee</item>
+        <item>ffffffff</item>
+        <item>gggggggg</item>
+    </string-array>
+    <string-array name="B1_Dialogue">
+        <item>hhh</item>
+        <item>iii</item>
+        <item>kkk</item>
+    </string-array>
+    <string-array name="B2_Dialogue">
+        <item>llll</item>
+        <item>mmmm</item>
+        <item>nnn</item>
+    </string-array>
+</resources>
